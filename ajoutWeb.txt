@@ -1,2 +1,6 @@
 ajout du web
+<<<<<<< HEAD
 modifier du d125
+=======
+modifier du web
+>>>>>>> d317dcd6f75accba92d1e8b704a68b94bae53207
